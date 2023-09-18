@@ -17,5 +17,10 @@ amvstrm is an open-source self-hostable anime streaming site powered by amvstrm'
 ![](https://api.checklyhq.com/v1/badges/checks/9a65f629-8429-40c2-ba04-a0f899881417?style=flat-square&theme=default&responseTime=true)
 ![](https://api.checklyhq.com/v1/badges/checks/21ab09a1-f124-43fe-9578-eb551dd90b2e?style=flat-square&theme=default&responseTime=true)
 
+## Discussions
+Talk with us and see our announcements on the GitHub Discussions page...
+
+- [Announcement](https://github.com/orgs/amvstrm/discussions/categories/announcements)
+- [Discussions](https://github.com/orgs/amvstrm/discussions)
 
 
