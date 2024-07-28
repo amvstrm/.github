@@ -2,23 +2,23 @@
 
 amvstrm is an open-source self-hostable anime streaming site powered by amvstrm's API.
 
-- [Official Documentation](https://amvdocs.pages.dev/introduction)
-- [API Documentation](https://docsapi-amvstrm.pages.dev)
+- [Official Documentation](https://docs.amvstr.me)
+- API Documentation (SOON)
 
 ## Mirror
 
-- [amvstr.me](https://amvstr.me)
-- [v2amvstrm.vercel.app](https://v2amvstrm.vercel.app)
+- [amvstr.me (Stable)](https://amvstr.me)
+- [www2.amvstr.me (Canary)](https://www2.amvstr.me)
 
 ## Status
 
-![](https://api.checklyhq.com/v1/badges/checks/41569fa5-c1bd-4bee-a1c1-1ac2650f8272?style=flat-square&theme=default&responseTime=true) 
-![](https://api.checklyhq.com/v1/badges/checks/9a65f629-8429-40c2-ba04-a0f899881417?style=flat-square&theme=default&responseTime=true) 
-![](https://api.checklyhq.com/v1/badges/checks/21ab09a1-f124-43fe-9578-eb551dd90b2e?style=flat-square&theme=default&responseTime=true) 
+- amvstrm: ![](https://api.checklyhq.com/v1/badges/checks/41569fa5-c1bd-4bee-a1c1-1ac2650f8272?style=flat&theme=default&responseTime=true) 
+- amvstrm's public API: ![](https://api.checklyhq.com/v1/badges/checks/9a65f629-8429-40c2-ba04-a0f899881417?style=flat&theme=default&responseTime=true) 
+- amvstrm's prod API: ![](https://api.checklyhq.com/v1/badges/checks/21ab09a1-f124-43fe-9578-eb551dd90b2e?style=flat&theme=default&responseTime=true) 
 
 ## Discussions
 
-Talk with us and see our announcements on the GitHub Discussions page...
+Please talk with us and see our announcements on the GitHub Discussions page...
 
 - [Announcement](https://github.com/orgs/amvstrm/discussions/categories/announcements)
 - [Discussions](https://github.com/orgs/amvstrm/discussions)
