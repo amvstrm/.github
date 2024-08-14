@@ -8,6 +8,7 @@ amvstrm is an open-source self-hostable anime streaming site powered by amvstrm'
 ## Mirror
 
 - [amvstr.me (Stable)](https://amvstr.me)
+- [www3.amvstr.me (Stable)](https://www3.amvstr.me)
 - [www2.amvstr.me (Canary)](https://www2.amvstr.me)
 
 ## Status
