@@ -3,19 +3,10 @@
 amvstrm is an open-source self-hostable anime streaming site powered by amvstrm's API.
 
 - [Official Documentation](https://docs.amvstr.me)
-- API Documentation (SOON)
 
 ## Mirror
 
-- [amvstr.me (Stable)](https://amvstr.me)
-- [www3.amvstr.me (Stable)](https://www3.amvstr.me)
-- [www2.amvstr.me (Canary)](https://www2.amvstr.me)
-
-## Status
-
-- amvstrm: ![](https://api.checklyhq.com/v1/badges/checks/41569fa5-c1bd-4bee-a1c1-1ac2650f8272?style=flat&theme=default&responseTime=true) 
-- amvstrm's public API: ![](https://api.checklyhq.com/v1/badges/checks/9a65f629-8429-40c2-ba04-a0f899881417?style=flat&theme=default&responseTime=true) 
-- amvstrm's prod API: ![](https://api.checklyhq.com/v1/badges/checks/21ab09a1-f124-43fe-9578-eb551dd90b2e?style=flat&theme=default&responseTime=true) 
+**We decided to shut down, cease the website operation, and archive this repo. Please read more at our [Docs website](https://docs.amvstr.me/the-future).**
 
 ## Discussions
 
