@@ -6,7 +6,7 @@ amvstrm is an open-source self-hostable anime streaming site powered by amvstrm'
 
 ## Mirror
 
-**We decided to shut down, cease the website operation, and archive the website repo. Please read more at our [Docs website](https://docs.amvstr.me/the-future).**
+**We decided to shut down, cease the website operation, and archive the website & API repo. Please read more at our [Docs website](https://docs.amvstr.me/the-future).**
 
 ## Discussions
 
