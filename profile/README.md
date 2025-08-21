@@ -4,17 +4,8 @@ amvstrm is an open-source self-hostable anime streaming site powered by amvstrm'
 
 - [Official Documentation](https://docs.amvstr.me)
 
-## Mirror
-
 **We decided to shut down, cease the website operation, and archive the website & API repo. Please read more at our [Docs website](https://docs.amvstr.me/the-future).**
 
-## Discussions
+For those who haven't migrated the API, please do so, as we will shut down the API server next month. Only the documentation website will remain operational. 
 
-Please talk with us and see our announcements on the GitHub Discussions page...
-
-- [Announcement](https://github.com/orgs/amvstrm/discussions/categories/announcements)
-- [Discussions](https://github.com/orgs/amvstrm/discussions)
-
-## Donation
-
-You can donate to us by supporting [NYT92](https://github.com/sponsors/nyt92) to keep the server alive because we are hosting it on a paid server provider.
+During the shutdown, we still retain the copyright to the name and logo, and anyone who uses the logo and name will be reminded via email. Please report to us at contact@nyt92.eu.org or nyt92@uninbox.me if you have seen websites that are still operating under the name of amvstrm and logo. Read more at https://docs.amvstr.me/license.html#name-and-logo
